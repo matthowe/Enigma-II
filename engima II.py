@@ -150,9 +150,7 @@ def run():
     else:
         decryption(wheels, wheelPointers)
     print()
-    
-    
-
+     
 while True:
     print('---------')
     print('Run Again')
